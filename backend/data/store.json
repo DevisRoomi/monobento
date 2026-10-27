@@ -1,0 +1,137 @@
+{
+  "profile": {
+    "name": "Devis Roomi",
+    "handle": "@devisroomi",
+    "role": "Fullstack Golang \u0026 React Engineer",
+    "bio": "Crafting high-throughput REST APIs with Golang and ultra-crisp monochromatic interfaces with React + TypeScript. Obsessed with simplicity, performance, and clean architecture.",
+    "location": "Indonesia",
+    "timezone": "UTC+07:00 (WIB)",
+    "availability": "Available for High-Impact Projects",
+    "avatar_url": "https://github.com/DevisRoomi.png",
+    "socials": {
+      "email": "abudevis5@gmail.com",
+      "github": "https://github.com/DevisRoomi",
+      "linkedin": "https://linkedin.com/in/devisroomi"
+    },
+    "stats": {
+      "commits_year": 412,
+      "repos": 19,
+      "system_latency": "0.14ms",
+      "uptime": "99.98%"
+    }
+  },
+  "projects": [
+    {
+      "id": "proj-1",
+      "title": "MonoBento",
+      "tagline": "Monochromatic Bento Grid Dev Portfolio \u0026 Content Node",
+      "category": "Fullstack System",
+      "tech_stack": [
+        "Golang",
+        "net/http",
+        "JWT",
+        "React 19",
+        "TypeScript",
+        "TanStack Query",
+        "Tailwind CSS"
+      ],
+      "github_url": "https://github.com/DevisRoomi/monobento",
+      "live_url": "http://monobento.test",
+      "metrics": "0.14ms API Latency • 100/100 Lighthouse",
+      "featured": true,
+      "col_span": 2,
+      "row_span": 2,
+      "created_at": "2026-10-27T14:10:12.1365206+07:00"
+    },
+    {
+      "id": "proj-2",
+      "title": "FerrisHub",
+      "tagline": "Modern Rust Axum 0.7 + Vue 3 Neo-Grotesk Bento Dashboard",
+      "category": "Systems \u0026 Microservices",
+      "tech_stack": [
+        "Rust",
+        "Axum",
+        "Vue 3",
+        "Tailwind CSS",
+        "JWT"
+      ],
+      "github_url": "https://github.com/DevisRoomi/ferris-hub",
+      "metrics": "Native Multi-threaded • Zero Alloc Router",
+      "featured": true,
+      "col_span": 1,
+      "row_span": 1,
+      "created_at": "2026-10-26T15:10:12.1365206+07:00"
+    },
+    {
+      "id": "proj-3",
+      "title": "Duitin",
+      "tagline": "Personal Finance \u0026 Cash Flow Tracker for Students",
+      "category": "FinTech Web App",
+      "tech_stack": [
+        "Golang / Rust",
+        "React",
+        "TypeScript",
+        "FlyEnv MySQL"
+      ],
+      "github_url": "https://github.com/DevisRoomi/Duitin",
+      "metrics": "IDR Ledger Accuracy • Offline First",
+      "featured": false,
+      "col_span": 1,
+      "row_span": 1,
+      "created_at": "2026-10-25T15:10:12.1365206+07:00"
+    },
+    {
+      "id": "proj-4",
+      "title": "Capyquest",
+      "tagline": "Gamified Santri Coding Journey \u0026 Roadmap Engine",
+      "category": "EdTech Platform",
+      "tech_stack": [
+        "Bun",
+        "Hono",
+        "React",
+        "SQLite"
+      ],
+      "github_url": "https://github.com/DevisRoomi/Capyquest",
+      "metrics": "Sub-millisecond Edge Response",
+      "featured": false,
+      "col_span": 2,
+      "row_span": 1,
+      "created_at": "2026-10-24T15:10:12.1365206+07:00"
+    },
+    {
+      "id": "proj-5",
+      "title": "GearFlow",
+      "tagline": "Lab \u0026 Multimedia Equipment Lending Management System",
+      "category": "Enterprise ERP",
+      "tech_stack": [
+        "Laravel",
+        "Livewire",
+        "MySQL",
+        "Tailwind CSS"
+      ],
+      "github_url": "https://github.com/DevisRoomi/gearflow",
+      "metrics": "Barcode Check-in/out • Audit Log",
+      "featured": false,
+      "col_span": 1,
+      "row_span": 1,
+      "created_at": "2026-10-23T15:10:12.1365206+07:00"
+    }
+  ],
+  "inquiries": [
+    {
+      "id": "inq-1",
+      "name": "Tech Recruiter",
+      "email": "lead@innovate.tech",
+      "message": "Impressed with your monochromatic bento portfolio! Let's connect.",
+      "created_at": "2026-10-27T13:10:12.1365206+07:00"
+    }
+  ],
+  "users": [
+    {
+      "id": "usr-admin",
+      "username": "admin",
+      "name": "Devis Roomi (Admin)",
+      "role": "lead_developer"
+    }
+  ]
+}

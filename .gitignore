@@ -1,0 +1,21 @@
+# Binaries and executables
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+backend/monobento-server.exe
+
+# Node / Frontend
+node_modules/
+dist/
+.vite/
+frontend/node_modules/
+frontend/dist/
+
+# OS and Temp
+.DS_Store
+Thumbs.db
+*.log
+tmp/
+*.tmp
